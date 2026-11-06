@@ -1,0 +1,6 @@
+{
+  "name": "DAWA 3D Warehouse Engine & Worker Journey",
+  "description": "Ultra-smart realistic 3D WebGL warehouse layout designer with human worker navigation, OSHA multi-tier industrial racks, CAD architectural elements, and live fulfillment journey.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
